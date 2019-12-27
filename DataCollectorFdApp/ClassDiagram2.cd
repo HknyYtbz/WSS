@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WearableSensorFederation.CDataColelctorFdApp" Collapsed="true">
+    <Position X="1.5" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>SKwAgUgAEIABoACABCAEAgUEAMAAkRAAAAEoAAAQAEA=</HashCode>
+      <FileName>DataColelctorFdApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WearableSensorFederation.CSimulationManager" Collapsed="true">
+    <Position X="1.5" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SimulationManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WearableSensorFederation.Som.CDataCollectorOC" Collapsed="true">
+    <Position X="11.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataCollectorOC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WearableSensorFederation.Som.FederateSom" Collapsed="true">
+    <Position X="4.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAIAAAAAAAAAABAMAAEAAAAAAAAAAA=</HashCode>
+      <FileName>FederateSom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WearableSensorFederation.Som.CMessageIC" Collapsed="true">
+    <Position X="7.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAgAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>MessageIC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WearableSensorFederation.Som.CSensorOC" Collapsed="true">
+    <Position X="9.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAMAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SensorOC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WearableSensorFederation.Som.CSensoryMessageIC" Collapsed="true">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SensoryMessageIC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WearableSensorFederation.Som.CSinkDeviceMessageIC" Collapsed="true">
+    <Position X="8.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SinkDeviceMessageIC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WearableSensorFederation.Som.CSinkDeviceOC" Collapsed="true">
+    <Position X="13.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>SinkDeviceOC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataCollectorFdApp.Program" Collapsed="true">
+    <Position X="1.5" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Racon.RtiLayer.HlaInteractionClass" Collapsed="true">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Racon.RtiLayer.HlaObjectClass" Collapsed="true">
+    <Position X="11.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Racon.CGenericFederate" Collapsed="true">
+    <Position X="1.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Racon.ObjectModel.CObjectModel" Collapsed="true">
+    <Position X="4.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
